@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "792035540366",
+    "project_id": "korean-d4fae",
+    "storage_bucket": "korean-d4fae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792035540366:android:6f16028eda99417e3e78df",
+        "android_client_info": {
+          "package_name": "com.whitesoft.korean"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmQ9XacWHoEomqPWd0v8HT9a8LOTYa0ZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
